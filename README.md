@@ -1,4 +1,4 @@
 # Basic-Pytorch
 
 This contains the implementaion of the basic pytorch Opertaions.
-This include the basic datasets such as MNIST dataset
+The mnist_pytorch file contains the way of how to create a basic Neural Network model using Pytorch.
