@@ -8,3 +8,6 @@ All of the notebooks are created in google colab.
 The style transfer can help you to transfer the style of one image to another. This is how it looks
 
 ![](transfer.png)
+
+
+I trained it for a very short time about 2000 epochs . YOu can train for longer and get bettter results.
