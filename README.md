@@ -16,5 +16,5 @@ I trained it for a very short time about 2000 epochs . You can train for longer 
 The sine wave generated using RNN and Pytorch.
 You can see the difference between the two images
 
-![](sine2.png)
+![](sine.2png.png)
 ![](sine.png)
