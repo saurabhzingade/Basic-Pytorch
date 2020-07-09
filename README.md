@@ -13,6 +13,7 @@ The style transfer can help you to transfer the style of one image to another. T
 I trained it for a very short time about 2000 epochs . You can train for longer and get bettter results.
 
 
-The sine wave generated using RNN and Pytorch
+The sine wave generated using RNN and Pytorch.
+You can see the difference between the two images
 
-![](sine.png)
+![](sine2.png)               ![](sine.png)
