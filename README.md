@@ -19,3 +19,5 @@ You can see the difference between the two images
 ![](sine.2png.png)
 ![](sine.png)
 The char Rnn will  take long time to train but you will recieve a prediction for it. 
+
+This is almost all the basic neural networks that i implemented in Pytorch
